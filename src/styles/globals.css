@@ -11,17 +11,12 @@
   margin: 0;
 }
 
-html,
 body {
   min-width: 320px;
   max-width: 100vw;
-  overflow-x: hidden;
-  font-family: var(--font-family);
-}
-
-body {
   color: rgb(var(--foreground-rgb));
   background: #e4cf0d;
+  font-family: var(--font-family);
 }
 
 a {
